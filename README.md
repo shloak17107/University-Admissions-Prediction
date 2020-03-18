@@ -1,4 +1,4 @@
-# University-Admissions-Prediction
+# University Admissions Prediction
 
 Hundreds of thousands of undergraduate students in India apply to graduate programs in the United States every year. A single student’s application requires many components such as a GRE score, TOEFL score, Statement of Purpose, Letters of Recommendation, CGPA, Research Ex- perience, Conference Publications, Internship Experiences, Industry Experience, Research Experience, and others. Applying to a single university can cost hundreds of dollars in application fees, sending test scores, and more. This project aims to solve this problem by predicting whether an appli- cant will be admitted to a university or not. The prediction is done by analysing Edulix.com’s data of Indian students who previously applied to graduate programs in the US.
 
